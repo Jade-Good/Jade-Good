@@ -19,7 +19,7 @@ jobs:
         run: |
           git config user.name Jade-Good
           git config user.email kangsm423@gmail.com
-          git remote add origin https://github.com/Jade-Good/Jade_Good.git
+          git remote set-url origin https://github.com/Jade-Good/Jade_Good.git
           git add -A .
           git commit -m "generated"
           git push https://$GITHUB_TOKEN@github.com/Jade-Good/Jade_Good.git
