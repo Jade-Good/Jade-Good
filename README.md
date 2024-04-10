@@ -32,8 +32,8 @@
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FFunFun&repo=.github)
 <br/>
 
-<!-- Github Stats Card -->
 <!-- 백준 티어 -->
-[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=kangsm423)](https://solved.ac/kangsm423) ![J.G's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jade-Good&show_icons=true&theme=tokyonight)
+<!-- Github Stats Card -->
+![J.G's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jade-Good&show_icons=true&theme=tokyonight) [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=kangsm423)](https://solved.ac/profile/kangsm423) 
 <!-- Github 3D Profile -->
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
