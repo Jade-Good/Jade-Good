@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=J.G%20Github&fontSize=80&animation=fadeIn&fontColor=232323)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=30&pause=1000&color=FFFFFF&background=232323&center=true&vCenter=true&random=false&width=800&height=80&lines=Welcome+to+Jade-Good+Github;Just+take+a+look;Development+is+fun)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=30&pause=1000&color=FFFFFF&background=232323&center=true&vCenter=true&random=false&width=800&height=80&lines=Welcome+to+Jade-Good+Github;Take+a+look!😀;Development+is+fun😎😎)](https://git.io/typing-svg)
 
 <!-- Badges -->
 <div align="center">
