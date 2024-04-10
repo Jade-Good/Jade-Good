@@ -33,7 +33,7 @@
 <br/>
 
 <!-- Github Stats Card -->
-![J.G's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jade-Good&show_icons=true&theme=tokyonight)
-
+<!-- 백준 티어 -->
+[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=kangsm423)](https://solved.ac/kangsm423) ![J.G's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jade-Good&show_icons=true&theme=tokyonight)
 <!-- Github 3D Profile -->
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
