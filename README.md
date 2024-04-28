@@ -31,7 +31,7 @@
 - 2022.02 ~ 2022.07    프로그래머스 자율주행 데브코스 3기
 
 ### 🔥 Now Dev
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FFunFun&repo=.github)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FFunFun&repo=.github)](https://github.com/FFunFun/.github)
 <br/>
 
 <!-- 백준 티어 -->
