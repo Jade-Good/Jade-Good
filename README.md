@@ -18,10 +18,10 @@
     <br/>
   <img src="https://img.shields.io/badge/Docker-20232a.svg?style=for-the-badge&logo=docker&logoColor=#2496ED" />
   <img src="https://img.shields.io/badge/AWS_EC2-20232a.svg?style=for-the-badge&logo=amazonec2&logoColor=#FF9900" />
-  <img src="https://img.shields.io/badge/Git-100000?style=for-the-badge&logo=git&logoColor=#F05032" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=#181717" />
-  <img src="https://img.shields.io/badge/GitLab-100000?style=for-the-badge&logo=gitlab&logoColor=#FC6D26" />
-  <img src="https://img.shields.io/badge/GitHub Action-100000?style=for-the-badge&logo=githubactions&logoColor=#2088FF" />
+  <img src="https://img.shields.io/badge/Git-20232a?style=for-the-badge&logo=git&logoColor=#F05032" />
+  <img src="https://img.shields.io/badge/GitHub-20232a?style=for-the-badge&logo=github&logoColor=#181717" />
+  <img src="https://img.shields.io/badge/GitLab-20232a?style=for-the-badge&logo=gitlab&logoColor=#FC6D26" />
+  <img src="https://img.shields.io/badge/GitHub Action-20232a?style=for-the-badge&logo=githubactions&logoColor=#2088FF" />
     <br/>
   <img src="https://img.shields.io/badge/IntelliJ-20232a.svg?style=for-the-badge&logo=intellijidea&logoColor=red" />
   <img src="https://img.shields.io/badge/figma-20232a.svg?style=for-the-badge&logo=figma&logoColor=#F24E1E" />
