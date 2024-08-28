@@ -59,7 +59,7 @@
 ### 🌱 Study
 | Subject  | Description                                                  | 구분                   | Period           | Link |
 |-----------|--------------------------------------------------------------|---------------------------|------------------|------|
-| 1일1코테 | 매일 백준 코테 1문제. 알고리즘 학습, 코딩 테스트 준비 - Java | 개인학습 | 2022 ~ **now!** | [>>>](https://github.com/Jade-Good/CodingTest) |
+| 1일1코테 | 매일 백준 코테 1문제 - Java | 개인학습 | 2022 ~ **now!** | [>>>](https://github.com/Jade-Good/CodingTest) |
 | 길벗 IT도서 코딩자율학습단 8기 | SpringBoot3 학습 및 실습 | 교재 | 2024.06-2024.08  | [>>>](https://github.com/Jade-Good/GilbutITbook_SpringBoot_Study) |
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kangsm423)](https://solved.ac/kangsm423/)
